@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<llistacompra>
+    <article>
+        <descripcio>a</descripcio>
+        <quantitat>3.0</quantitat>
+        <unitat>a</unitat>
+        <seccio>s</seccio>
+    </article>
+</llistacompra>
